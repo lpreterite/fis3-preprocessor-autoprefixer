@@ -1,0 +1,27 @@
+{
+  "name": "fis3-preprocessor-autoprefixer",
+  "version": "0.1.0",
+  "description": "使用postcss/autoprefixer于fis3构建工具的预处理器插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpreterite/fis3-preprocessor-autoprefixer.git"
+  },
+  "keywords": [
+    "fis3",
+    "autoprefixer"
+  ],
+  "author": "packy-tang <lpreterite@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lpreterite/fis3-preprocessor-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/lpreterite/fis3-preprocessor-autoprefixer#readme",
+  "dependencies": {
+    "autoprefixer": "^6.1.2",
+    "postcss": "^5.2.4"
+  }
+}
