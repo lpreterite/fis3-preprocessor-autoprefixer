@@ -1,6 +1,6 @@
 {
   "name": "fis3-preprocessor-autoprefixer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "使用postcss/autoprefixer于fis3构建工具的预处理器插件",
   "main": "index.js",
   "scripts": {
