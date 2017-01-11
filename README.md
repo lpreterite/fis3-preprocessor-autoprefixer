@@ -1,3 +1,5 @@
+# 本项目不再为何，建议使用[fis3-postprocessor-autoprefixer](https://github.com/huixisheng/fis3-postprocessor-autoprefixer)
+
 # fis3-preprocessor-autoprefixer
 使用[postcss/autoprefixer](https://github.com/postcss/autoprefixer)于fis3构建工具的预处理器插件
 
